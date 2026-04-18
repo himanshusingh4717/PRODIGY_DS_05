@@ -1,4 +1,4 @@
-# Prodigy Internship Data Science
+# Prodigy Internship Internship
 # Task 5: Traffic Accident Pattern Analysis Using Exploratory Data Analysis
 In this task, I conducted exploratory data analysis on a traffic accident dataset to uncover patterns and trends related to factors such as weather conditions, time of day, and driver characteristics.
 # 1. Objective
